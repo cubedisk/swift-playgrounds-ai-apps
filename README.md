@@ -1,17 +1,22 @@
-# Usage Terms:
-The apps and projects in this repository are provided for personal use only. They may not be modified, redistributed, or republished in any form without the explicit permission of the owners. You are not permitted to claim any of the contents of this repository as your own work.
+# Swift Playgrounds Projects
+This repository is a collection of Swift apps and experiments we’ve built using Swift Playgrounds on iPad.
+It’s where we test ideas, learn by doing, and see what’s possible with Swift in a hands-on, creative way.
 
-When using or referencing these projects, please credit the original creators where possible — acknowledgment is appreciated and supports continued development.
+Some projects are small demos or code experiments, while others are more complete mini-apps. Every one of them started as a way to explore something new — whether that’s a bit of Swift syntax, a UI concept, or just a random idea worth coding.
 
-Some portions of the content within this repository were created or assisted by AI tools, and all such material remains under the same usage and credit terms as the rest of the repository.
+A few parts of the content were created or assisted by AI tools, but everything here was shaped, tested, and refined by us.
 
-# Additional Terms:
-This repository and its contents are intended strictly for personal, non-commercial use. You are welcome to explore, run, and study the code privately for your own learning or enjoyment, but you may not modify, redistribute, or re-upload any part of it without express written permission from the owners.
+# About This Repository
+We started this repository to document our progress, share what we’ve learned, and keep all our Swift Playgrounds in one place.
+It’s a mix of fun experiments, educational code, and creative tinkering — all built directly on iPad.
 
-Proper credit should be given to the original creators whenever the work is referenced, shared, or showcased. Some parts of this repository include assets or code generated or refined with AI assistance, which remain subject to the same restrictions and licensing terms.
+We hope it might be useful or inspiring to others who are learning Swift or experimenting with Playgrounds themselves.
 
-All materials are provided “as is”, without warranty of any kind. The owners accept no responsibility for any damages, issues, or losses that may result from using or misusing the materials contained within this repository.
+# Legal
+These projects are provided for **personal use only.**
+They must not be modified, redistributed, or claimed as your own work without permission.
+Please give credit when possible — it’s always appreciated.
 
-# License:
-This repository is protected under the Personal Use License (Custom) described below.
-For the full legal terms, see the LICENSE file in this repository.
+Some content was created or assisted by AI tools, and all of it falls under the same usage terms.
+
+For the full legal terms, refer to (legal.md)[legal.md] in this repository.
