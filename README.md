@@ -19,4 +19,4 @@ Please give credit when possible — it’s always appreciated.
 
 Some content was created or assisted by AI tools, and all of it falls under the same usage terms.
 
-For the full legal terms, refer to (legal.md)[legal.md] in this repository.
+For the full legal terms, refer to (legal.md)[swift-playgrounds-apps/legal.md] in this repository.
