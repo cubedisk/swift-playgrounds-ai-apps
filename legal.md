@@ -3,7 +3,7 @@ The apps and projects in this repository are provided for personal use only. The
 
 When using or referencing these projects, please credit the original creators where possible — acknowledgment is appreciated and supports continued development.
 
-Some portions of the content within this repository were created or assisted by AI tools, and all such material remains under the same usage and credit terms as the rest of the repository.
+Most portions of the content within this repository were created or assisted by AI tools, and all such material remains under the same usage and credit terms as the rest of the repository.
 
 # Additional Terms:
 This repository and its contents are intended strictly for personal, non-commercial use. You are welcome to explore, run, and study the code privately for your own learning or enjoyment, but you may not modify, redistribute, or re-upload any part of it without express written permission from the owners.
