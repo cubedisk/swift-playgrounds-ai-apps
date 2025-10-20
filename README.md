@@ -1,10 +1,8 @@
 # Swift Playgrounds Projects
-This repository is a collection of Swift apps and experiments we’ve built using Swift Playgrounds on iPad.
-It’s where we test ideas, learn by doing, and see what’s possible with Swift in a hands-on, creative way.
-
-Some projects are small demos or code experiments, while others are more complete mini-apps. Every one of them started as a way to explore something new — whether that’s a bit of Swift syntax, a UI concept, or just a random idea worth coding.
-
-A few parts of the content were created or assisted by AI tools, but everything here was shaped, tested, and refined by us.
+Welcome to our collection of Swift Playgrounds projects, all fully generated and refined by AI., including the text you’re reading now.
+This is a space built on automation, curiosity, and pure digital creativity. There were no predefined plans, just prompts, patterns, and vibes — a true experiment in what happens when machines take the wheel in Swift development.
+Everything here is completely vibe-coded — guided only by creative direction.
+(Yes, there are real people behind this — we just let the AI do most of the typing.)
 
 # About This Repository
 We started this repository to document our progress, share what we’ve learned, and keep all our Swift Playgrounds in one place.
@@ -12,11 +10,13 @@ It’s a mix of fun experiments, educational code, and creative tinkering — al
 
 We hope it might be useful or inspiring to others who are learning Swift or experimenting with Playgrounds themselves.
 
+This repository exists to explore and document what happens when Swift Playgrounds meets AI creativity. Every app, snippet, and experiment here was made through AI generation and refined within the iPad environment.
+It’s a mix of experiments that range from working mini-apps to chaotic curiosities. Each one captures a moment of AI-driven exploration — an algorithm following patterns, logic, and occasionally, pure vibes.
+We oversee the process, refine the results, and sometimes even try to understand what the AI was thinking. It’s all part of the fun!
+
 # Legal
 These projects are provided for **personal use only.**
-They must not be modified, redistributed, or claimed as your own work without permission.
+They **must not** be modified, redistributed, or claimed as your own work without **explicit** permission.
 Please give credit when possible — it’s always appreciated.
-
-Some content was created or assisted by AI tools, and all of it falls under the same usage terms.
-
+Most of the projects and materials here were **AI-generated,** with human guidance shaping direction, refinement, and organization.
 For the full legal terms, refer to [legal.md](legal.md) in this repository.
