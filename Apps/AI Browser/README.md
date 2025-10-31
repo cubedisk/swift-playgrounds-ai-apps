@@ -1,2 +1,2 @@
-#AI Browser
+# AI Browser
 AI Browser is an experimental Swift-based web browser that explores how artificial intelligence can reshape the way we interact with the internet. Built and refined in Swift Playgrounds, it’s designed to navigate, interpret, and summarize the web — not just display it. Most of the code and text were AI-generated, guided by human direction and curiosity. It’s a creative experiment in AI-driven browsing, built by vibes, refined by people, and powered by pure exploration.
